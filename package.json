@@ -1,0 +1,32 @@
+{
+  "name": "twitter.js-demo-bot",
+  "version": "1.0.0",
+  "description": "A basic twitter bot made using twitter.js",
+  "author": "Shubham Parihar <shubhamparihar391@gmail.com",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iShibi/twitter.js-demo-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter.js",
+    "tjs",
+    "demo",
+    "example",
+    "twitter",
+    "api"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iShibi/twitter.js-demo-bot/issues"
+  },
+  "homepage": "https://github.com/iShibi/twitter.js-demo-bot#readme",
+  "dependencies": {
+    "twitter.js": "^0.10.0"
+  }
+}
