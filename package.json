@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/iShibi/twitter.js-demo-bot#readme",
   "dependencies": {
-    "twitter.js": "^0.10.0"
+    "twitter.js": "^0.10.1"
   }
 }
